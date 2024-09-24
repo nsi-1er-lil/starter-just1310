@@ -6,8 +6,8 @@ print(P)
 print(A)
 print(b)
 
-def perimetre(x):
+def perimetre(c):
     return 4 * c
 
-def surface(x):
+def surface(c):
     return c * c
